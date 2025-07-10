@@ -10,6 +10,8 @@ especially valuable when dealing with a business-critical task that demands high
 routinely achieve accuracy scores higher than 95% in the product classification task even in Taxonomies with 
 2000+ categories.  
 
+<img width="851" height="710" alt="image" src="https://github.com/user-attachments/assets/e2c43a5f-1208-4a86-8d3c-1d5131ec37b4" />
+
 This project centers around the Product Classifier application, which presents the user with a simple GUI capable
 of accepting product data through file uploads or through direct manual entry.  It also includes a collection of 
 scripts used for cleansing and preprocessing product data for classification, along with a model trainer.  
